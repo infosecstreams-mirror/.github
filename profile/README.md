@@ -14,13 +14,13 @@ This mirror was created and is actively maintained by **[Wupinyin](https://githu
 
 ## 📌 Our Projects
 
-* [**infosecstreams.github.io**](https://github.com/infosecstreams-mirror/infosecstreams.github.io) - The core Jekyll-based static site and frontend interface.
+* [**infosecstreams-mirror.github.io**](https://github.com/infosecstreams-mirror/infosecstreams-mirror.github.io) - The core Jekyll-based static site and frontend interface.
 * *More backend and automation tooling coming soon...*
 
 ## 🤝 Getting Involved
 
 We welcome contributions! Whether you want to add yourself to the directory or submit a patch to our custom features:
-1. Check out our **[Issues](https://github.com/infosecstreams-mirror/infosecstreams.github.io/issues)** tab to request addition to the streamers list.
+1. Check out our **[Issues](https://github.com/infosecstreams-mirror/infosecstreams-mirror.github.io/issues)** tab to request addition to the streamers list.
 2. If you find a bug in our custom leaderboard or tracking, feel free to open a ticket!
 
 *Note: For upstream Golang scrapers (`secinfo`, `streamstatus`), please refer to the original community repositories. We maintain our own frontend and static lists.*
